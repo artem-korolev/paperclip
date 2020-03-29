@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ArcRwLock","Wrapper over `Arc<RwLock<T>>` to offer deserialization support."],["RcRefCell","Wrapper over `Rc<RefCell<T>>` to offer deserialization support."]]});
